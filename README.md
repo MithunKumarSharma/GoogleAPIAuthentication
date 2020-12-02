@@ -4,4 +4,4 @@ This repository contains my android projects and contributions to the open sourc
 
 Functionalities covered:
 
---> Google API Authentication through Google sing in
+--> Sign In with Google API
